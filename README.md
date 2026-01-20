@@ -9,7 +9,7 @@
 
 **PhD student** in Engineering at Brown University (on leave), focusing on the convergence of **Artificial Intelligence** and **Engineering**. 
 
-Experienced in automating finite element simulation workflows. Through developing tools for programmatic model generation, I identified a critical bottleneck in Scientific Machine Learning (SciML): the difficulty of scaling diverse, physically-valid datasets using commercial solvers. I am particularly interested in developing agentic frameworks—incorporating knowledge graphs and automated review loops—to bridge the gap between traditional FEA and autonomous, AI-driven design discovery for PINNs and Neural Operators.
+Experienced in automating finite element simulation workflows. Through developing tools for programmatic model generation, I identified a critical bottleneck in Scientific Machine Learning (SciML): the difficulty of scaling diverse, physically-valid datasets using commercial solvers. Broadly, I aim to advance AI-driven engineering by integrating machine learning with traditional design principles. More specifically, I am focused on developing agentic frameworks-utilizing knowledge graphs and automated review loops-to bridge the gap between high-fidelity FEA and autonomous discovery in Scientific Machine Learning (SciML), including PINNs and Neural Operators.
 
 ---
 
@@ -18,7 +18,7 @@ Experienced in automating finite element simulation workflows. Through developin
 - **Programming**: Python, C++, MATLAB
 - **Commerical FEM software**: Abaqus, ANSYS Mechanical
 - **ML / Scientific computing**: PyTorch, NumPy/SciPy
-- **Interests**: Physics-informed learning (PINNs), Deep Operator Network (DeepONet), scientific machine learning (SciML)
+- **Interests**: Scientific Machine Learning (SciML) - Physics-Informed Learning (PINNs) and Neural Operators (DeepONet); Autonomous Engineering Design via Multi-Agent Systems.
 
 ---
 
@@ -26,7 +26,7 @@ Experienced in automating finite element simulation workflows. Through developin
 
 ### Researcher — Stealth Startup  |  2025.02 – 2026.01
 
-- Developing software that automatically generates **editable** simulation inputs for **AI model training**, including **Abaqus `.inp`** files and **ANSYS Mechanica `.dat`** files.
+- Developing software that automatically generates **editable** simulation inputs for **AI model training**, including **Abaqus `.inp`** files and **ANSYS Mechanical `.dat`** files.
 - Constructing **automated pipelines** to scale **diverse, physically-valid dataset generation** by parameterizing geometry, material properties, and boundary conditions for SciML learning
 
 ---
