@@ -65,12 +65,12 @@ An advanced Extended Physics-Informed Neural Networks (X-PINN) framework for mod
 
 **FEM vs MFS Comparison**
 
-<img src="images/fem_vs_mfs.png" alt="FEM vs MFS Comparison" width="600">
+<img src="images/mfs_vs_fem.jpg" alt="FEM vs MFS Comparison" width="600">
 
 *Comparison between Standard Finite Element Method (FEM) and Method of Finite Spheres (MFS), showing overlapping elements in MFS. MFS features simplified preprocessing, C¹ continuity, and robustness to irregular node distribution (Lai and Bathe, Computers & Structures, 2016).*
 
 **Mass Lumping: FEM vs MFS**
 
-<img src="images/mass_lumping_fem_mfs.png" alt="Mass Lumping Comparison" width="300">
+<img src="images/mfs_vs_fem_mass_lumping.jpg" alt="Mass Lumping Comparison" width="300">
 
 *Mass lumping comparison between Standard FEM and Method of Finite Spheres (MFS). The diagram illustrates the diagonal mass matrix structure for both methods, showing how MFS uses multiple basis functions (Shepard function and Linear) per node, resulting in a larger but structured mass matrix (Nam et al., Computers & Structures, 2024).*
