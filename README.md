@@ -8,7 +8,7 @@
 
 ## Summary
 
-**Researcher** at Korea Institute of of Science and Technology Information, focusing on the convergence of **Artificial Intelligence** and **Engineering**. 
+**Researcher** at Korea Institute of of Science and Technology Information (KISTI).
 
 Experienced in automating finite element simulation workflows. Through developing tools for programmatic model generation, I identified a critical bottleneck in Scientific Machine Learning (SciML): the difficulty of scaling diverse, physically-valid datasets using commercial solvers. Broadly, I aim to advance AI-driven engineering by integrating machine learning with traditional design principles. More specifically, I am focused on developing agentic frameworks-utilizing knowledge graphs and automated review loops-to bridge the gap between high-fidelity FEA and autonomous discovery in Scientific Machine Learning (SciML), including PINNs and Neural Operators.
 
