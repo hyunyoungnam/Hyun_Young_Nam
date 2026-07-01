@@ -1,14 +1,14 @@
 # Hyun-Young Nam
 ### Scientific Machine Learning | Computational Mechanics | AI-Driven Engineering
 
-- **Location**: Seoul, South Korea
-- **Email**: hyun_young_nam@brown.edu
+- **Location**: Daejeon, South Korea
+- **Email**: hyunyoungnam@kisti.re.kr
 
 ---
 
 ## Summary
 
-**PhD student** in Engineering at Brown University (on leave), focusing on the convergence of **Artificial Intelligence** and **Engineering**. 
+**Researcher** at Korea Institute of of Science and Technology Information, focusing on the convergence of **Artificial Intelligence** and **Engineering**. 
 
 Experienced in automating finite element simulation workflows. Through developing tools for programmatic model generation, I identified a critical bottleneck in Scientific Machine Learning (SciML): the difficulty of scaling diverse, physically-valid datasets using commercial solvers. Broadly, I aim to advance AI-driven engineering by integrating machine learning with traditional design principles. More specifically, I am focused on developing agentic frameworks-utilizing knowledge graphs and automated review loops-to bridge the gap between high-fidelity FEA and autonomous discovery in Scientific Machine Learning (SciML), including PINNs and Neural Operators.
 
@@ -35,6 +35,10 @@ Experienced in automating finite element simulation workflows. Through developin
 
 ## Experience
 
+### Researcher — Stealth Startup  |  2026.07 – Present
+
+- Researcher in Large-scale AI Research Center
+
 ### Researcher — Stealth Startup  |  2025.02 – 2026.01
 
 - Developing software that automatically generates **editable** simulation inputs for **AI model training**, including **Abaqus `.inp`** files and **ANSYS Mechanical `.dat`** files.
@@ -44,7 +48,7 @@ Experienced in automating finite element simulation workflows. Through developin
 
 ## Education
 
-- **Ph.D.**, Brown University — Mechanics of Solids and Structures *(on leave)* (Providence, Rhode Island)  |  2023.09 – present
+- **Ph.D.**, Brown University — Mechanics of Solids and Structures (Providence, Rhode Island)  |  2023.09 – 2024.05 (droup out)
 - **M.S.**, Brown University — Mechanics of Solids (Providence, Rhode Island)  |  2021.09 – 2023.05  
 - **B.S.**, Kyungpook National University — Mechanical Engineering (Daegu, South Korea)  |  2015.03 – 2021.08
 
