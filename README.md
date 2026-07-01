@@ -35,7 +35,7 @@ Experienced in automating finite element simulation workflows. Through developin
 
 ## Experience
 
-### Researcher — Stealth Startup  |  2026.07 – Present
+### Researcher — KISTI  |  2026.07 – Present
 
 - Researcher in Large-scale AI Research Center
 
