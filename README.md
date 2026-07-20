@@ -8,7 +8,7 @@
 
 ## Summary
 
-I am exploring ideas at the intersection of **agentic AI** and **Scientific Machine Learning (SciML)**. I am particularly interested in learning how AI agents and machine learning can support scientific research and engineering workflows.
+I am a **Researcher at the Korea Institute of Science and Technology Information (KISTI)**, exploring ideas at the intersection of **agentic AI** and **Scientific Machine Learning (SciML)**. I am particularly interested in learning how AI agents and machine learning can support scientific research and engineering workflows.
 
 I am open to collaboration in these areas. If you are interested in any of my projects or would like to explore related research ideas together, please feel free to contact me at **hyunyoungnam@kisti.re.kr**.
 
@@ -25,6 +25,10 @@ I am open to collaboration in these areas. If you are interested in any of my pr
 ---
 
 ## Experience
+
+### Researcher — KISTI  |  2026.07 – Present
+
+- Researcher in Large-scale AI Research Center
 
 ### Researcher — Stealth Startup  |  2025.02 – 2026.01
 
