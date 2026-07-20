@@ -1,14 +1,13 @@
 # Hyun-Young Nam
-### Scientific Machine Learning | Computational Mechanics | AI-Driven Engineering
+### Researcher at KISTI
 
 - **Location**: Daejeon, South Korea
-- **Email**: hyunyoungnam@kisti.re.kr
 
 ---
 
 ## Collaboration
 
-I am open to collaboration in these areas. If you are interested in any of my projects or would like to explore related research ideas together, please feel free to contact me at **hyunyoungnam@kisti.re.kr**.
+I am open to collaboration in these areas. If you are interested in any of my projects or would like to explore related research ideas together, please feel free to get in touch.
 
 ---
 
