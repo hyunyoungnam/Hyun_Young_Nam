@@ -6,21 +6,15 @@
 
 ---
 
-## Summary
-
-I am a **Researcher at the Korea Institute of Science and Technology Information (KISTI)**, exploring ideas at the intersection of **agentic AI** and **Scientific Machine Learning (SciML)**. I am particularly interested in learning how AI agents and machine learning can support scientific research and engineering workflows.
+## Collaboration
 
 I am open to collaboration in these areas. If you are interested in any of my projects or would like to explore related research ideas together, please feel free to contact me at **hyunyoungnam@kisti.re.kr**.
 
 ---
 
-## Research Areas
+## Research Interests
 
-**Agentic AI**: Multi-Agent Systems, Tool-Using LLMs, Automated Evaluation and Review Loops, Knowledge-Guided Reasoning
-
-**Scientific Machine Learning**: Physics-Informed Neural Networks, Neural Operators (DeepONet, Transolver), Physics-Informed Training
-
-**AI for Science and Engineering**: Autonomous Experimentation, Agentic Model Optimization, Scientific Discovery, Computational Mechanics
+My research interest is **AI for Science and Engineering**, particularly how machine learning and agentic AI can complement conventional methods and reduce the computational and practical burden of scientific research. I am interested in developing more efficient approaches to modeling, simulation, and experimentation.
 
 ---
 
