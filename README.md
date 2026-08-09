@@ -32,7 +32,7 @@ My research interest is **AI for Science and Engineering**, particularly how mac
 ## Education
 
 - **Ph.D. studies (Withdrawn)**, Brown University — Mechanics of Solids and Structures (Providence, Rhode Island)  |  2023.09 – 2024.05
-- **M.S.**, Brown University — Mechanics of Solids (Providence, Rhode Island)  |  2021.09 – 2023.05  
+- **M.S.**, Brown University — Mechanics of Solids and Structures (Providence, Rhode Island)  |  2021.09 – 2023.05  
 - **B.S.**, Kyungpook National University — Mechanical Engineering (Daegu, South Korea)  |  2015.03 – 2021.08
 
 ---
@@ -45,11 +45,13 @@ A self-improving Scientific Machine Learning project that explores how agentic A
 
 **GitHub**: [PIANO](https://github.com/hyunyoungnam/Physics-Informed-Agentic-Neural-Operator)
 
-### KORANI: KISTI Open Research Agentic Network Intelligence
+### MECHANIST *(Private)*
 
-A multi-agent AI framework that acts as a co-scientist for Korean researchers, helping automate scientific workflows and accelerate research in semiconductors, batteries, and manufacturing.
+A project training a mechanistic language model to understand computational solid mechanics.
 
-**GitHub**: [KORANI](https://github.com/hyunyoungnam/KORANI)
+### ADAGIO-PHORTE *(Private)*
+
+A framework that organizes small language models into a multi-agent system to generate training data for fracture-mechanics research.
 
 ---
 
